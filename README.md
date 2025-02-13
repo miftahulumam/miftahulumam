@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Umam, and I'm a AI enthusiast.
 <!--
 **miftahulumam/miftahulumam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
